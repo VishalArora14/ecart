@@ -57,7 +57,7 @@ const Payment = ({ history }) => {
         },
       };
       const { data } = await axios.post(
-        "/api/v1/payment/process",
+        "https://gen-z-cart.herokuapp.com/api/v1/payment/process",
         paymentData,
         config
       );
