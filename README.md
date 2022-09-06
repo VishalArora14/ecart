@@ -13,16 +13,16 @@
 ## 🟢 Glimpse of the web app : 
 
 <img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/1)Home.png" width="800" height="400" />
-<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/2)home products.png.png" width="800" height="400" />
-<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/3)products-page.png.png" width="800" height="400" />
-<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/4)MyProfile.png.png" width="800" height="400" />
-<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/5)ProfileOptions.png.png" width="800" height="400" />
-<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/6)Added item to cart.png.png" width="800" height="400" />
-<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/7)checkout page.png.png" width="800" height="400" />
-<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/8)payment page.png.png" width="800" height="400" />
-<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/9)order confirmation page..png.png" width="800" height="400" />
-<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/10)All products -admin.png.png" width="800" height="400" />
-<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/11)Update Product -admin.png.png" width="800" height="400" />
-<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/12)AllUsers-admin.png.png" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/2)home products.png" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/3)products-page.png" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/4)MyProfile.png" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/5)ProfileOptions.png" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/6)Added item to cart.png" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/7)checkout page.png" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/8)payment page.png" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/9)order confirmation page..png" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/10)All products -admin.png" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/11)Update Product -admin.png" width="800" height="400" />
+<img src="https://raw.githubusercontent.com/VishalArora14/ecart/master/.github/images/12)AllUsers-admin.png" width="800" height="400" />
 
 ### Bookmark this application for instant use 😃
